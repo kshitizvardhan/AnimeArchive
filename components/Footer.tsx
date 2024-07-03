@@ -5,7 +5,7 @@ function Footer() {
     <footer className="sm:px-16 py-4 px-8 flex justify-between items-center gap-2 flex-wrap bg-[#161921]">
       
       <Image
-        src="./logo.svg"
+        src="/peace.png"
         alt="logo"
         width={47}
         height={44}
