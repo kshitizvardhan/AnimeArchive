@@ -9,9 +9,9 @@ Welcome to the Anime Archive project! This repository showcases a collection of 
 - **Server Actions**: Learning and applying Server Actions in Next.js to fetch data on both server-rendered and client-rendered pages.
 - **Framer Motion**: Enhancing server-side rendered pages with Framer Motion for fluid animations and transitions.
 
-## Demo
+https://github.com/kshitizvardhan/AnimeArchive/assets/143323194/7645c51f-4e6e-427f-a5c6-47154bca3a69
 
-Check out the live demo of the Anime Archive:
+## Check out the live demo: https://anime-archive-chi.vercel.app/
 
 ## Technologies Used
 
