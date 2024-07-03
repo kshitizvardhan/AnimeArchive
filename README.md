@@ -26,3 +26,5 @@ Check out the live demo of the Anime Archive:
 - **Client-Side Rendering (CSR)**: Leveraging Next.js for dynamic client-side rendering when required.
 - **Server Actions**: Implementing server actions to fetch data asynchronously and efficiently on both server-rendered and client-rendered pages.
 - **Framer Motion**: Integrating Framer Motion for animating components and creating smooth transitions, enhancing user experience on server-side rendered pages.
+
+Thank you for exploring the Anime Archive project! This project has equipped me with valuable insights into Next.js, server-side rendering, client-side rendering, and utilizing Framer Motion for animations. I look forward to applying these learnings to create more dynamic and interactive web applications.
