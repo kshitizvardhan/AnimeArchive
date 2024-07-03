@@ -1,4 +1,7 @@
 "use server";
+
+import AnimeCard, { AnimeProp } from "@/components/AnimeCard";
+
 // Server action -> Use this directive at the top of the file to indicate that this code should be executed on the server side
 // Here having one function whose work is to fetch data from api 
 // Server-side execution ensures that sensitive information are not exposed to the client
@@ -11,7 +14,9 @@ export const fetchAnime = async (page: number) => {
 
     // console.log(data);
 
-    return data;
+    return data.map((item: AnimeProp, index: number) => (
+        <AnimeCard key={item.id} anime={item} index={index} />
+      ));
 }
 
 
